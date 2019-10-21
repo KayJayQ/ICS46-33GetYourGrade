@@ -11,7 +11,7 @@ fileURL33 = "https://www.ics.uci.edu/~pattis/ICS-33/ics33fal19grades.zip"
 
 fileURL = fileURL46 #Select Course Here
 
-ID = "894426" #Enter Your HashID Here
+ID = "123456" #Enter Your HashID Here
 
 import zipfile
 import urllib.request
